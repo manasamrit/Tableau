@@ -8,14 +8,16 @@ The primary aim of this project is to conduct Customer Segmentation Analysis for
 ---
 
 ## Tableau Dashboard
-The Sales Dashboard for Customer Segmentation can be accessed [here](#).
+The Sales Dashboard for Customer Segmentation can be accessed [here](https://public.tableau.com/app/profile/manas.amrit/viz/CustomerSegmentationDashboard_17147628806580/RFMDashboard?publish=yes).
+
+![Sales Dashboard GIF](https://github.com/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/Data%20Visualization/SalesDashboard1-ezgif.com-video-to-gif-converter.gif)
 
 In case of difficulties loading Jupyter Notebooks on Github, the following notebooks can be viewed on nbviewer:
-- [RFM Analysis.ipynb](#)
-- [DQA and Data Cleaning CustomerDemographic.ipynb](#)
-- [DQA and Data Cleaning NewCustomerList.ipynb](#)
-- [DQA and Data Cleaning Transactions.ipynb](#)
-- [DQA and Data Cleaning Customer Address.ipynb](#)
+- [RFM Analysis.ipynb](https://nbviewer.org/github/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/RFM%20Analysis.ipynb)
+- [DQA and Data Cleaning CustomerDemographic.ipynb](https://nbviewer.org/github/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/DQA%20and%20Data%20Cleaning%20CustomerDemographic.ipynb)
+- [DQA and Data Cleaning NewCustomerList.ipynb](https://nbviewer.org/github/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/DQA%20and%20Data%20Cleaning%20NewCustomerList.ipynb)
+- [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/DQA%20and%20Data%20Cleaning%20Transactions.ipynb)
+- [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.org/github/manasamrit/Tableau/blob/main/Customer%20Segmentation%20With%20Tableau%20and%20Python/DQA%20and%20Data%20Cleaning%20Customer%20Address.ipynb)
 
 ---
 
